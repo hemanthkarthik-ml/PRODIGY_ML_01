@@ -2,7 +2,7 @@
 # House Price Prediction using Linear Regression
 I built a linear regression model to predict house prices based on key features like square footage, number of bedrooms, and number of bathrooms.
 
-## 📊 Dataset
+## Dataset
 - **Source:** [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 - **Features used:**
   - `GrLivArea` (Above ground living area in square feet)
@@ -10,7 +10,7 @@ I built a linear regression model to predict house prices based on key features 
   - `FullBath` (Number of full bathrooms)
 - **Target:** `SalePrice` (House sale price)
 
-## ✅ Project Highlights
+## Project Highlights
 - Loaded and cleaned the dataset
 - Performed Exploratory Data Analysis (EDA)
 - Selected relevant features for simple regression
@@ -20,7 +20,7 @@ I built a linear regression model to predict house prices based on key features 
   - Root Mean Squared Error (RMSE)
   - R² Score
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Jupyter Notebook
 - Libraries:
